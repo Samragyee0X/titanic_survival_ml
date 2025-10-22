@@ -12,7 +12,7 @@ This project demonstrates a beginner-friendly ML workflow:
 ## Folder Structure
 titanic_survival_ml/
 ├── notebooks/ # Colab/Jupyter notebooks
-│ └── titanic_survival_prediction.ipynb
+   --- titanic_survival_prediction.ipynb
 ├── data/ (dataset or link from kaggle)
 ├── reports/ # Visualizations, reports
 └── README.md # Project documentation
