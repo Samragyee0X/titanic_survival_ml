@@ -36,5 +36,14 @@ titanic_survival_ml/
 - Hyperparameter tuning using GridSearchCV
 - Try advanced models like XGBoost or LightGBM
 
-  Author : Samragi Dhakal
-  Nepal
+## Acknowledgments
+
+This project was inspired by publicly available Titanic ML tutorials, including:
+- The [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition
+- Various open educational notebooks on GitHub and Medium
+
+I reproduced and modified the workflow for learning and educational purposes.
+
+
+Author : Samragi Dhakal
+Nepal
